@@ -17,16 +17,11 @@
                     <p>About <label>DoFun</label></p>
                 </div>
                 <div class="col-md-7 about-right">
-                    <h3>Lorem ipsum dolor sit amet, consec</h3>
-                    <p>Donec bibendum massa metus, vel aliquet nunc varius eu. Curabitur nec scelerisque dui. Quisque mattis libero et enim ultricies gravida. Nulla ut commodo massa, eget tincidunt ligula. Vivamus eu ante tincidunt, fermentum risus nec, pharetra turpis. Donec rhoncus eros sed felis aliquet tincidunt. In consectetur tempor quam</p>
-                    <ul class="list-unstyled list-inline">
-                        <li>Sed vitae facilisis nisi, in finibus lacus. Duis vel nulla orci.</li>
-                        <li>fringilla, at ultrices felis dignissim. Integer ultricies posuere odio</li>
-                        <li>Sed vestibulum mattis laoreet. Donec sollicitudin justo luctus nulla consectetur</li>
-                        <li>Nam dolor tellus, dictum sit amet libero eu, semper placerat massa.</li>
-                        <li>consectetur tempor quam, aliquam dignissim diam hendrerit nec. Cras sodales at nisl</li>
-                    </ul>
-                    <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit</span>
+                    <p>DoFun merupakan theme park pertama yang menjadi pusat hiburan outdoor, DoFun juga merupakan kawasan edutainment fisikia terbesar di 
+                        Indonesia yang memanjakan pengunjung dengan Fantasi Keliling Dunia, melalui wahana permainan berteknologi tinggi, yang terbagi dalam 
+                        9 (Sembilan) kawasan yaitu Indonesia, Jakarta, Asia, Eropa, Amerika, Yunani, Hikayat, Kalila dan Fantasy Lights. <br><br>
+                        Fasilitas umum untuk pengunjung : Gratis pinjam Stroller Bayi dan Kursi Roda, Free Wifi, Charger Point, Toilet bersih disetiap kawasan dan wahana, 
+                        Baby Care Room, Mushola dan Masjid, P3K & Ambulance.</p>
                 </div>
             </div>
             <div class="clearfix"> </div>

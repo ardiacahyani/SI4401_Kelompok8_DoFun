@@ -14,7 +14,6 @@
         <div class="container">
             <div class="col-md-6 contact-left-block">
                 <h3><span>Contact </span>Us</h3>
-                <p class="text-left">Nulla pharetra eleifend tellus in molestie. In vel neque sit amet urna gravida blandit nec id massa. Phasellus eu aliquet augue. Quisque fringilla urna quam.</p>
                 <p class="text-right">Bandung <i class="fa fa-map-marker fa-lg"></i></p>
                 <p class="text-right"><a href="tel:+1-202-555-0100">0812-3456-7890<i class="fa fa-phone fa-lg"></i></a></p>
                 <p class="text-right"><a href="mailto:demo@info.com">abc@gmail.com<i class="fa fa-envelope"></i></a></p>

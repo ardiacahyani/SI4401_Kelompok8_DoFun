@@ -78,7 +78,7 @@
                     </div>
   
                     <a class="small text-muted" href="#!">Forgot password?</a>
-                    <p class="mb-5 pb-lg-2" style="color: #393f81;">Don't have an account? <a href="login.html"
+                    <p class="mb-5 pb-lg-2" style="color: #393f81;">Don't have an account? <a href="{{ route('login') }}"
                         style="color: #393f81;">Login Here</a></p>
                   </form>
   
